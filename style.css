@@ -34,6 +34,13 @@ li a:hover{
     background-color: mediumspringgreen;
     color: forestgreen;
 }
+@media screen and (max-width: 900px){
+    ul{
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+}
 p{
     font-family: sans-serif;
     font-size: 18px;

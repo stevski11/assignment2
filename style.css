@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+h1{
+    color: mediumspringgreen;
+    font-size: 36px;
+    text-align: center;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-color: forestgreen;
+    background-color: forestgreen;
+    font-family: sans-serif; 
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: forestgreen;
+}
+li a{
+    display: block;
+    color: mediumspringgreen;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 25px;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+li a:hover{
+    background-color: mediumspringgreen;
+    color: forestgreen;
+}

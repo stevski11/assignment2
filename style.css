@@ -31,3 +31,8 @@ li a:hover{
     background-color: mediumspringgreen;
     color: forestgreen;
 }
+p{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
